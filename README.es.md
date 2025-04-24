@@ -4,7 +4,7 @@
 
 Practica tus habilidades en Git mientras desarrollas un sitio web típico.
 
-Cada alumno trabajará en un archivo diferente para cada parte diferente del sitio web y aquel con más experiencia puede trabajar como líder de equipo (para integración y despliegue), a menos que el profesor prefiera ser el líder de equipo de toda la clase. La librería Html-Template-Engine se encargará de juntar todas las piezas.
+Cada alumno trabajará en un archivo diferente para cada parte diferente del sitio web y aquel con más experiencia puede trabajar como líder de equipo (para integración y despliegue), a menos que el profesor prefiera ser el líder de equipo de toda la clase. La librería Html-Template-Engine se encargará de juntar todas las piezas.https://mysuperteam.zeit.sh
 
 
 ## 📝 Instrucciones
@@ -59,7 +59,7 @@ $ npx http-server --yes -c-1
 
 ## Implementar el sitio web
 
-Vercel, Netlify o GitHub pages permiten publicar tu aplicación web y poder obtener una URL donde cualquier persona pueda verla (por ejemplo: `https://mysuperteam.zeit.sh`).
+Vercel, Netlify o GitHub pages permiten publicar tu aplicación web y poder obtener una URL donde cualquier persona pueda verla (por ejemplo: ``).
 
 ## Entrega
 
